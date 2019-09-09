@@ -1,0 +1,66 @@
+------- output data :-----------
+
+USA Tornado data analysis:
+
+-----------------------------------
+
+---------------------------------------------
+Dimension of the data frame =  (223, 51)
+---------------------------------------------
+------------------------
+ Column names as follows :
+------------------------
+
+0 --> BEGIN_YEARMONTH
+1 --> BEGIN_DAY
+2 --> BEGIN_TIME
+3 --> END_YEARMONTH
+4 --> END_DAY
+5 --> END_TIME
+6 --> EPISODE_ID
+7 --> EVENT_ID
+8 --> STATE
+9 --> STATE_FIPS
+10 --> YEAR
+11 --> MONTH_NAME
+12 --> EVENT_TYPE
+13 --> CZ_TYPE
+14 --> CZ_FIPS
+15 --> CZ_NAME
+16 --> WFO
+17 --> BEGIN_DATE_TIME
+18 --> CZ_TIMEZONE
+19 --> END_DATE_TIME
+20 --> INJURIES_DIRECT
+21 --> INJURIES_INDIRECT
+22 --> DEATHS_DIRECT
+23 --> DEATHS_INDIRECT
+24 --> DAMAGE_PROPERTY
+25 --> DAMAGE_CROPS
+26 --> SOURCE
+27 --> MAGNITUDE
+28 --> MAGNITUDE_TYPE
+29 --> FLOOD_CAUSE
+30 --> CATEGORY
+31 --> TOR_F_SCALE
+32 --> TOR_LENGTH
+33 --> TOR_WIDTH
+34 --> TOR_OTHER_WFO
+35 --> TOR_OTHER_CZ_STATE
+36 --> TOR_OTHER_CZ_FIPS
+37 --> TOR_OTHER_CZ_NAME
+38 --> BEGIN_RANGE
+39 --> BEGIN_AZIMUTH
+40 --> BEGIN_LOCATION
+41 --> END_RANGE
+42 --> END_AZIMUTH
+43 --> END_LOCATION
+44 --> BEGIN_LAT
+45 --> BEGIN_LON
+46 --> END_LAT
+47 --> END_LON
+48 --> EPISODE_NARRATIVE
+49 --> EVENT_NARRATIVE
+50 --> DATA_SOURCE
+
+-----------------------------
