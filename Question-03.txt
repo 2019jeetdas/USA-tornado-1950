@@ -1,0 +1,31 @@
+# -*- coding: utf-8 -*-
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df = pd.read_csv ('/home/jeet/Desktop/USA-tornado-1950.csv',encoding="cp1252")
+
+print("\n------- output data :-----------\n")
+print("USA Tornado data analysis:")
+print("\n-----------------------------------\n")
+
+#---------- Question-3 : starting point(latitute and longitude)------
+
+df_begin_lat = df['BEGIN_LAT']
+df_begin_lon = df['BEGIN_LON']
+df_end_lat = df['END_LAT']
+df_end_lon = df['END_LON']
+
+print(df_begin_lat)
+print(df_begin_lon)
+print(df_end_lat)
+print(df_end_lat)
+
+plt.title("[ Question - 3 ] : Tornado starting and ending point plotting")
+plt.xlabel("latitude --->")
+plt.ylabel("longitude --->") 
+plt.scatter(df_begin_lat,df_begin_lon,label="Starting points")
+plt.scatter(df_end_lat,df_end_lon,label="Ending points")
+plt.legend()
+plt.show()
