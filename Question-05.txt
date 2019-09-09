@@ -1,0 +1,27 @@
+# -*- coding: utf-8 -*-
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df = pd.read_csv ('/home/jeet/Desktop/USA-tornado-1950.csv',encoding="cp1252")
+
+print("\n------- output data :-----------\n")
+print("USA Tornado data analysis:")
+print("\n-----------------------------------\n")
+
+#----------- Question-5 : Injuries direct and indirect ------
+
+df_injuries_direct = df['INJURIES_DIRECT']
+df_injuries_indirect = df['INJURIES_INDIRECT']
+
+print(df_injuries_direct)
+print(df_injuries_indirect)
+
+plt.title("[ Question - 5 ] : Direct & Indirect injuries")
+plt.xlabel("sl. no. of tornadoes --->")
+plt.ylabel("no. of injuries --->") 
+plt.plot(df_injuries_direct,label="Direct")
+plt.plot(df_injuries_indirect,label="Indirect")
+plt.legend()
+plt.show()
