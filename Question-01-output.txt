@@ -1,0 +1,37 @@
+                YEAR
+STATE               
+ALABAMA            2
+ARKANSAS          13
+COLORADO           3
+CONNECTICUT        2
+FLORIDA            6
+GEORGIA            4
+ILLINOIS          11
+INDIANA            3
+IOWA               4
+KANSAS            33
+KENTUCKY           2
+LOUISIANA         28
+MARYLAND           1
+MINNESOTA          1
+MISSISSIPPI       16
+MISSOURI           6
+NEBRASKA           6
+NEW MEXICO         2
+NORTH CAROLINA     9
+NORTH DAKOTA       2
+OHIO               3
+OKLAHOMA          25
+PENNSYLVANIA       6
+SOUTH CAROLINA     1
+SOUTH DAKOTA       1
+TENNESSEE          3
+TEXAS             20
+WEST VIRGINIA      1
+WISCONSIN          6
+WYOMING            3
+
+-------------------------------------------
+
+Total no. of Tornados in USA (1950) : YEAR    223
+dtype: int64
