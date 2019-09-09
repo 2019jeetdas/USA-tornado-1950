@@ -1,0 +1,15 @@
+#---------- Question-1 : statewise no. of Tornados in 1950 ----------------
+
+df_states = df.groupby(['STATE'])[['YEAR']].count()
+print(df_states)
+print("\n-------------------------------------------\n")
+
+print('Total no. of Tornados in USA (1950) :',sum(df_states))
+print("\n-------------------------------------------\n")
+
+plt.title("[Question-01] Statewise No. of Tornados in 1950")
+plt.xlabel('State sl. no. -->')
+plt.grid(True)
+plt.ylabel('No. of tonados -->') 
+plt.hist(df['STATE_FIPS'])
+plt.show()
