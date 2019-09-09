@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import random
+
+df = pd.read_csv ('/home/jeet/Desktop/USA-tornado-1950.csv',encoding="cp1252")
+
+print("\n------- output data :-----------\n")
+print("USA Tornado data analysis:")
+print("\n-----------------------------------\n")
+
+#---------- Question-2 : Monthwise analysis --------
+
+df_months = df.groupby(['MONTH_NAME'])[['YEAR']].count()
+print(df_months)
