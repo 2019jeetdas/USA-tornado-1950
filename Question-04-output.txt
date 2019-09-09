@@ -1,0 +1,3347 @@
+-------- Tornado Details --------
+
+
+-------- Tornado :  1 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 14:45:00
+[A-2] Ending Date & Time :  28-APR-50 14:45:00
+
+[B-1] Tornado length :  3.4
+[B-2] Tornado width :  400
+
+[C-1] Begining latitude :  35.12
+[C-2] Begining longitude :  -99.2
+[C-3] Ending latitude :  35.17
+[C-4] Ending longitude :  35.17
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  2 ----------
+
+[A-1] Begining Date & Time :  29-APR-50 15:30:00
+[A-2] Ending Date & Time :  29-APR-50 15:30:00
+
+[B-1] Tornado length :  11.5
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  31.9
+[C-2] Begining longitude :  -98.6
+[C-3] Ending latitude :  31.73
+[C-4] Ending longitude :  31.73
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  3 ----------
+
+[A-1] Begining Date & Time :  05-JUL-50 18:00:00
+[A-2] Ending Date & Time :  05-JUL-50 18:00:00
+
+[B-1] Tornado length :  12.9
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.58
+[C-2] Begining longitude :  -75.7
+[C-3] Ending latitude :  40.65
+[C-4] Ending longitude :  40.65
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  4 ----------
+
+[A-1] Begining Date & Time :  05-JUL-50 18:30:00
+[A-2] Ending Date & Time :  05-JUL-50 18:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  13
+
+[C-1] Begining latitude :  40.6
+[C-2] Begining longitude :  -76.75
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  5 ----------
+
+[A-1] Begining Date & Time :  24-JUL-50 14:40:00
+[A-2] Ending Date & Time :  24-JUL-50 14:40:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.63
+[C-2] Begining longitude :  -79.68
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  6 ----------
+
+[A-1] Begining Date & Time :  29-AUG-50 16:00:00
+[A-2] Ending Date & Time :  29-AUG-50 16:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.22
+[C-2] Begining longitude :  -75.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  7 ----------
+
+[A-1] Begining Date & Time :  04-NOV-50 17:00:00
+[A-2] Ending Date & Time :  04-NOV-50 17:00:00
+
+[B-1] Tornado length :  4.7
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  40.2
+[C-2] Begining longitude :  -76.12
+[C-3] Ending latitude :  40.27
+[C-4] Ending longitude :  40.27
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  8 ----------
+
+[A-1] Begining Date & Time :  04-NOV-50 17:30:00
+[A-2] Ending Date & Time :  04-NOV-50 17:30:00
+
+[B-1] Tornado length :  11.2
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  40.27
+[C-2] Begining longitude :  -76.07
+[C-3] Ending latitude :  40.4
+[C-4] Ending longitude :  40.4
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  9 ----------
+
+[A-1] Begining Date & Time :  15-SEP-50 17:45:00
+[A-2] Ending Date & Time :  15-SEP-50 17:45:00
+
+[B-1] Tornado length :  6.8
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  35.0
+[C-2] Begining longitude :  -96.25
+[C-3] Ending latitude :  35.07
+[C-4] Ending longitude :  35.07
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  10 ----------
+
+[A-1] Begining Date & Time :  16-SEP-50 01:30:00
+[A-2] Ending Date & Time :  16-SEP-50 01:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  34.83
+[C-2] Begining longitude :  -95.85
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  11 ----------
+
+[A-1] Begining Date & Time :  01-OCT-50 21:00:00
+[A-2] Ending Date & Time :  01-OCT-50 21:00:00
+
+[B-1] Tornado length :  15.8
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.73
+[C-2] Begining longitude :  -102.52
+[C-3] Ending latitude :  36.88
+[C-4] Ending longitude :  36.88
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  12 ----------
+
+[A-1] Begining Date & Time :  22-JUN-50 21:00:00
+[A-2] Ending Date & Time :  22-JUN-50 21:00:00
+
+[B-1] Tornado length :  1.9
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.18
+[C-2] Begining longitude :  -98.03
+[C-3] Ending latitude :  40.2
+[C-4] Ending longitude :  40.2
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  13 ----------
+
+[A-1] Begining Date & Time :  27-FEB-50 10:20:00
+[A-2] Ending Date & Time :  27-FEB-50 10:20:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  35.55
+[C-2] Begining longitude :  -97.6
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  14 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 03:00:00
+[A-2] Ending Date & Time :  27-MAR-50 03:00:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  77
+
+[C-1] Begining latitude :  34.85
+[C-2] Begining longitude :  -95.75
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  15 ----------
+
+[A-1] Begining Date & Time :  02-APR-50 18:00:00
+[A-2] Ending Date & Time :  02-APR-50 18:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  35.82
+[C-2] Begining longitude :  -97.02
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  16 ----------
+
+[A-1] Begining Date & Time :  03-APR-50 16:15:00
+[A-2] Ending Date & Time :  03-APR-50 16:15:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.13
+[C-2] Begining longitude :  -95.83
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  17 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 14:17:00
+[A-2] Ending Date & Time :  28-APR-50 14:17:00
+
+[B-1] Tornado length :  9.4
+[B-2] Tornado width :  400
+
+[C-1] Begining latitude :  34.88
+[C-2] Begining longitude :  -99.28
+[C-3] Ending latitude :  35.0
+[C-4] Ending longitude :  35.0
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  18 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 14:35:00
+[A-2] Ending Date & Time :  28-APR-50 14:35:00
+
+[B-1] Tornado length :  8.0
+[B-2] Tornado width :  400
+
+[C-1] Begining latitude :  35.0
+[C-2] Begining longitude :  -99.2
+[C-3] Ending latitude :  35.12
+[C-4] Ending longitude :  35.12
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  19 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 19:05:00
+[A-2] Ending Date & Time :  28-APR-50 19:05:00
+
+[B-1] Tornado length :  4.5
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  35.08
+[C-2] Begining longitude :  -96.4
+[C-3] Ending latitude :  35.13
+[C-4] Ending longitude :  35.13
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  20 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 19:30:00
+[A-2] Ending Date & Time :  28-APR-50 19:30:00
+
+[B-1] Tornado length :  0.8
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  34.55
+[C-2] Begining longitude :  -96.2
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  21 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 21:30:00
+[A-2] Ending Date & Time :  04-MAY-50 21:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.58
+[C-2] Begining longitude :  -99.17
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  22 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 21:30:00
+[A-2] Ending Date & Time :  04-MAY-50 21:30:00
+
+[B-1] Tornado length :  5.6
+[B-2] Tornado width :  293
+
+[C-1] Begining latitude :  35.25
+[C-2] Begining longitude :  -99.55
+[C-3] Ending latitude :  35.32
+[C-4] Ending longitude :  35.32
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  23 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 21:45:00
+[A-2] Ending Date & Time :  04-MAY-50 21:45:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  36.57
+[C-2] Begining longitude :  -99.57
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  24 ----------
+
+[A-1] Begining Date & Time :  07-MAY-50 18:30:00
+[A-2] Ending Date & Time :  07-MAY-50 18:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.3
+[C-2] Begining longitude :  -99.8
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  25 ----------
+
+[A-1] Begining Date & Time :  07-MAY-50 23:00:00
+[A-2] Ending Date & Time :  07-MAY-50 23:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.0
+[C-2] Begining longitude :  -97.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  26 ----------
+
+[A-1] Begining Date & Time :  07-MAY-50 23:00:00
+[A-2] Ending Date & Time :  07-MAY-50 23:00:00
+
+[B-1] Tornado length :  4.3
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.12
+[C-2] Begining longitude :  -97.83
+[C-3] Ending latitude :  36.17
+[C-4] Ending longitude :  36.17
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  27 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 08:00:00
+[A-2] Ending Date & Time :  27-MAR-50 08:00:00
+
+[B-1] Tornado length :  50.3
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  32.3
+[C-2] Begining longitude :  -90.12
+[C-3] Ending latitude :  32.98
+[C-4] Ending longitude :  32.98
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  28 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 08:05:00
+[A-2] Ending Date & Time :  27-MAR-50 08:05:00
+
+[B-1] Tornado length :  25.7
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  32.3
+[C-2] Begining longitude :  -90.17
+[C-3] Ending latitude :  32.48
+[C-4] Ending longitude :  32.48
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  29 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 08:45:00
+[A-2] Ending Date & Time :  27-MAR-50 08:45:00
+
+[B-1] Tornado length :  4.7
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  33.67
+[C-2] Begining longitude :  -88.78
+[C-3] Ending latitude :  33.72
+[C-4] Ending longitude :  33.72
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  30 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 11:00:00
+[A-2] Ending Date & Time :  27-MAR-50 11:00:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  10
+
+[C-1] Begining latitude :  34.73
+[C-2] Begining longitude :  -88.27
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  31 ----------
+
+[A-1] Begining Date & Time :  29-APR-50 12:00:00
+[A-2] Ending Date & Time :  29-APR-50 12:00:00
+
+[B-1] Tornado length :  11.3
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.27
+[C-2] Begining longitude :  -89.83
+[C-3] Ending latitude :  31.38
+[C-4] Ending longitude :  31.38
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  32 ----------
+
+[A-1] Begining Date & Time :  26-JAN-50 18:00:00
+[A-2] Ending Date & Time :  26-JAN-50 18:00:00
+
+[B-1] Tornado length :  4.7
+[B-2] Tornado width :  133
+
+[C-1] Begining latitude :  26.88
+[C-2] Begining longitude :  -98.12
+[C-3] Ending latitude :  26.88
+[C-4] Ending longitude :  26.88
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  33 ----------
+
+[A-1] Begining Date & Time :  11-FEB-50 13:50:00
+[A-2] Ending Date & Time :  11-FEB-50 13:50:00
+
+[B-1] Tornado length :  12.0
+[B-2] Tornado width :  1000
+
+[C-1] Begining latitude :  29.67
+[C-2] Begining longitude :  -95.05
+[C-3] Ending latitude :  29.83
+[C-4] Ending longitude :  29.83
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  34 ----------
+
+[A-1] Begining Date & Time :  11-FEB-50 21:00:00
+[A-2] Ending Date & Time :  11-FEB-50 21:00:00
+
+[B-1] Tornado length :  4.6
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.35
+[C-2] Begining longitude :  -95.2
+[C-3] Ending latitude :  32.42
+[C-4] Ending longitude :  32.42
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  35 ----------
+
+[A-1] Begining Date & Time :  11-FEB-50 23:55:00
+[A-2] Ending Date & Time :  11-FEB-50 23:55:00
+
+[B-1] Tornado length :  4.5
+[B-2] Tornado width :  67
+
+[C-1] Begining latitude :  32.98
+[C-2] Begining longitude :  -94.63
+[C-3] Ending latitude :  33.0
+[C-4] Ending longitude :  33.0
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  36 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 00:30:00
+[A-2] Ending Date & Time :  12-FEB-50 00:30:00
+
+[B-1] Tornado length :  8.0
+[B-2] Tornado width :  833
+
+[C-1] Begining latitude :  33.33
+[C-2] Begining longitude :  -94.42
+[C-3] Ending latitude :  33.45
+[C-4] Ending longitude :  33.45
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  37 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 01:15:00
+[A-2] Ending Date & Time :  12-FEB-50 01:15:00
+
+[B-1] Tornado length :  2.3
+[B-2] Tornado width :  233
+
+[C-1] Begining latitude :  32.08
+[C-2] Begining longitude :  -98.35
+[C-3] Ending latitude :  32.1
+[C-4] Ending longitude :  32.1
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  38 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 06:10:00
+[A-2] Ending Date & Time :  12-FEB-50 06:10:00
+
+[B-1] Tornado length :  3.4
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.52
+[C-2] Begining longitude :  -96.55
+[C-3] Ending latitude :  31.57
+[C-4] Ending longitude :  31.57
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  39 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 11:57:00
+[A-2] Ending Date & Time :  12-FEB-50 11:57:00
+
+[B-1] Tornado length :  7.7
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.8
+[C-2] Begining longitude :  -94.2
+[C-3] Ending latitude :  31.88
+[C-4] Ending longitude :  31.88
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  40 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 12:00:00
+[A-2] Ending Date & Time :  12-FEB-50 12:00:00
+
+[B-1] Tornado length :  1.9
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  31.8
+[C-2] Begining longitude :  -94.2
+[C-3] Ending latitude :  31.8
+[C-4] Ending longitude :  31.8
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  41 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 18:00:00
+[A-2] Ending Date & Time :  28-APR-50 18:00:00
+
+[B-1] Tornado length :  1.3
+[B-2] Tornado width :  233
+
+[C-1] Begining latitude :  32.42
+[C-2] Begining longitude :  -99.5
+[C-3] Ending latitude :  32.42
+[C-4] Ending longitude :  32.42
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  42 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 20:30:00
+[A-2] Ending Date & Time :  04-MAY-50 20:30:00
+
+[B-1] Tornado length :  1.9
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  36.4
+[C-2] Begining longitude :  -100.8
+[C-3] Ending latitude :  36.42
+[C-4] Ending longitude :  36.42
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  43 ----------
+
+[A-1] Begining Date & Time :  14-MAY-50 16:00:00
+[A-2] Ending Date & Time :  14-MAY-50 16:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  29.53
+[C-2] Begining longitude :  -95.45
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  44 ----------
+
+[A-1] Begining Date & Time :  15-MAY-50 00:01:00
+[A-2] Ending Date & Time :  15-MAY-50 00:01:00
+
+[B-1] Tornado length :  18.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  29.78
+[C-2] Begining longitude :  -98.83
+[C-3] Ending latitude :  29.67
+[C-4] Ending longitude :  29.67
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  45 ----------
+
+[A-1] Begining Date & Time :  11-JUL-50 17:00:00
+[A-2] Ending Date & Time :  11-JUL-50 17:00:00
+
+[B-1] Tornado length :  3.8
+[B-2] Tornado width :  500
+
+[C-1] Begining latitude :  35.28
+[C-2] Begining longitude :  -103.52
+[C-3] Ending latitude :  35.33
+[C-4] Ending longitude :  35.33
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  46 ----------
+
+[A-1] Begining Date & Time :  02-AUG-50 12:30:00
+[A-2] Ending Date & Time :  02-AUG-50 12:30:00
+
+[B-1] Tornado length :  7.9
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  34.12
+[C-2] Begining longitude :  -107.23
+[C-3] Ending latitude :  34.02
+[C-4] Ending longitude :  34.02
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  47 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 05:00:00
+[A-2] Ending Date & Time :  01-MAY-50 05:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  31.73
+[C-2] Begining longitude :  -91.07
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  48 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 09:00:00
+[A-2] Ending Date & Time :  01-MAY-50 09:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  31.55
+[C-2] Begining longitude :  -91.38
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  49 ----------
+
+[A-1] Begining Date & Time :  03-JUN-50 01:00:00
+[A-2] Ending Date & Time :  03-JUN-50 01:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  33.08
+[C-2] Begining longitude :  -89.58
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  50 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 12:30:00
+[A-2] Ending Date & Time :  12-FEB-50 12:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  34.48
+[C-2] Begining longitude :  -92.4
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  51 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 15:00:00
+[A-2] Ending Date & Time :  12-FEB-50 15:00:00
+
+[B-1] Tornado length :  5.7
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  33.27
+[C-2] Begining longitude :  -92.95
+[C-3] Ending latitude :  33.35
+[C-4] Ending longitude :  33.35
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  52 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 19:30:00
+[A-2] Ending Date & Time :  26-MAR-50 19:30:00
+
+[B-1] Tornado length :  4.1
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  34.12
+[C-2] Begining longitude :  -93.07
+[C-3] Ending latitude :  34.17
+[C-4] Ending longitude :  34.17
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  53 ----------
+
+[A-1] Begining Date & Time :  03-JAN-50 11:00:00
+[A-2] Ending Date & Time :  03-JAN-50 11:00:00
+
+[B-1] Tornado length :  6.2
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  38.77
+[C-2] Begining longitude :  -90.22
+[C-3] Ending latitude :  38.82
+[C-4] Ending longitude :  38.82
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  54 ----------
+
+[A-1] Begining Date & Time :  09-JUN-50 13:00:00
+[A-2] Ending Date & Time :  09-JUN-50 13:00:00
+
+[B-1] Tornado length :  2.7
+[B-2] Tornado width :  220
+
+[C-1] Begining latitude :  38.0
+[C-2] Begining longitude :  -92.22
+[C-3] Ending latitude :  38.02
+[C-4] Ending longitude :  38.02
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  55 ----------
+
+[A-1] Begining Date & Time :  15-JUN-50 01:00:00
+[A-2] Ending Date & Time :  15-JUN-50 01:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  39.7
+[C-2] Begining longitude :  -92.07
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  56 ----------
+
+[A-1] Begining Date & Time :  19-JUL-50 16:00:00
+[A-2] Ending Date & Time :  19-JUL-50 16:00:00
+
+[B-1] Tornado length :  1.5
+[B-2] Tornado width :  440
+
+[C-1] Begining latitude :  38.42
+[C-2] Begining longitude :  -92.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  57 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 05:00:00
+[A-2] Ending Date & Time :  27-MAR-50 05:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  33.17
+[C-2] Begining longitude :  -90.55
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  58 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 07:30:00
+[A-2] Ending Date & Time :  27-MAR-50 07:30:00
+
+[B-1] Tornado length :  11.9
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  33.13
+[C-2] Begining longitude :  -89.57
+[C-3] Ending latitude :  33.25
+[C-4] Ending longitude :  33.25
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  59 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 07:45:00
+[A-2] Ending Date & Time :  27-MAR-50 07:45:00
+
+[B-1] Tornado length :  9.0
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  32.28
+[C-2] Begining longitude :  -90.27
+[C-3] Ending latitude :  32.3
+[C-4] Ending longitude :  32.3
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  60 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 07:45:00
+[A-2] Ending Date & Time :  27-MAR-50 07:45:00
+
+[B-1] Tornado length :  6.2
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  32.28
+[C-2] Begining longitude :  -90.27
+[C-3] Ending latitude :  32.3
+[C-4] Ending longitude :  32.3
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  61 ----------
+
+[A-1] Begining Date & Time :  09-MAY-50 20:20:00
+[A-2] Ending Date & Time :  09-MAY-50 20:20:00
+
+[B-1] Tornado length :  0.8
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  34.77
+[C-2] Begining longitude :  -96.83
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  62 ----------
+
+[A-1] Begining Date & Time :  11-MAY-50 18:30:00
+[A-2] Ending Date & Time :  11-MAY-50 18:30:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  77
+
+[C-1] Begining latitude :  36.82
+[C-2] Begining longitude :  -100.52
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  63 ----------
+
+[A-1] Begining Date & Time :  16-MAY-50 19:30:00
+[A-2] Ending Date & Time :  16-MAY-50 19:30:00
+
+[B-1] Tornado length :  7.3
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  35.82
+[C-2] Begining longitude :  -99.12
+[C-3] Ending latitude :  35.87
+[C-4] Ending longitude :  35.87
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  64 ----------
+
+[A-1] Begining Date & Time :  22-MAY-50 12:39:00
+[A-2] Ending Date & Time :  22-MAY-50 12:39:00
+
+[B-1] Tornado length :  1.5
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  35.67
+[C-2] Begining longitude :  -99.23
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  65 ----------
+
+[A-1] Begining Date & Time :  24-MAY-50 21:30:00
+[A-2] Ending Date & Time :  24-MAY-50 21:30:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.45
+[C-2] Begining longitude :  -99.03
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  66 ----------
+
+[A-1] Begining Date & Time :  29-MAY-50 14:48:00
+[A-2] Ending Date & Time :  29-MAY-50 14:48:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.38
+[C-2] Begining longitude :  -95.27
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  67 ----------
+
+[A-1] Begining Date & Time :  09-JUN-50 18:25:00
+[A-2] Ending Date & Time :  09-JUN-50 18:25:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  36.8
+[C-2] Begining longitude :  -97.25
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  68 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 12:00:00
+[A-2] Ending Date & Time :  12-FEB-50 12:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  34.6
+[C-2] Begining longitude :  -89.12
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  69 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 12:00:00
+[A-2] Ending Date & Time :  12-FEB-50 12:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  34.6
+[C-2] Begining longitude :  -89.12
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  70 ----------
+
+[A-1] Begining Date & Time :  01-MAR-50 02:30:00
+[A-2] Ending Date & Time :  01-MAR-50 02:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  32.5
+[C-2] Begining longitude :  -88.85
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  71 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 22:10:00
+[A-2] Ending Date & Time :  08-MAY-50 22:10:00
+
+[B-1] Tornado length :  8.8
+[B-2] Tornado width :  467
+
+[C-1] Begining latitude :  40.38
+[C-2] Begining longitude :  -95.8
+[C-3] Ending latitude :  40.28
+[C-4] Ending longitude :  40.28
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  72 ----------
+
+[A-1] Begining Date & Time :  18-MAY-50 15:15:00
+[A-2] Ending Date & Time :  18-MAY-50 15:15:00
+
+[B-1] Tornado length :  0.7
+[B-2] Tornado width :  333
+
+[C-1] Begining latitude :  40.22
+[C-2] Begining longitude :  -100.63
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  73 ----------
+
+[A-1] Begining Date & Time :  13-JUN-50 17:30:00
+[A-2] Ending Date & Time :  13-JUN-50 17:30:00
+
+[B-1] Tornado length :  4.1
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  42.6
+[C-2] Begining longitude :  -97.88
+[C-3] Ending latitude :  42.65
+[C-4] Ending longitude :  42.65
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  74 ----------
+
+[A-1] Begining Date & Time :  15-JUL-50 17:30:00
+[A-2] Ending Date & Time :  15-JUL-50 17:30:00
+
+[B-1] Tornado length :  10.0
+[B-2] Tornado width :  440
+
+[C-1] Begining latitude :  41.8
+[C-2] Begining longitude :  -96.6
+[C-3] Ending latitude :  41.73
+[C-4] Ending longitude :  41.73
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  75 ----------
+
+[A-1] Begining Date & Time :  21-SEP-50 17:30:00
+[A-2] Ending Date & Time :  21-SEP-50 17:30:00
+
+[B-1] Tornado length :  22.5
+[B-2] Tornado width :  67
+
+[C-1] Begining latitude :  40.72
+[C-2] Begining longitude :  -96.82
+[C-3] Ending latitude :  40.72
+[C-4] Ending longitude :  40.72
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  76 ----------
+
+[A-1] Begining Date & Time :  12-JUL-50 16:00:00
+[A-2] Ending Date & Time :  12-JUL-50 16:00:00
+
+[B-1] Tornado length :  10.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.57
+[C-2] Begining longitude :  -72.57
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  77 ----------
+
+[A-1] Begining Date & Time :  20-NOV-50 07:30:00
+[A-2] Ending Date & Time :  20-NOV-50 07:30:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  37
+
+[C-1] Begining latitude :  32.42
+[C-2] Begining longitude :  -89.13
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  78 ----------
+
+[A-1] Begining Date & Time :  30-AUG-50 16:00:00
+[A-2] Ending Date & Time :  30-AUG-50 16:00:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  29.73
+[C-2] Begining longitude :  -84.98
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  79 ----------
+
+[A-1] Begining Date & Time :  31-AUG-50 00:02:00
+[A-2] Ending Date & Time :  31-AUG-50 00:02:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  30.8
+[C-2] Begining longitude :  -85.2
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  80 ----------
+
+[A-1] Begining Date & Time :  12-MAY-50 17:00:00
+[A-2] Ending Date & Time :  12-MAY-50 17:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  35.73
+[C-2] Begining longitude :  -78.4
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  81 ----------
+
+[A-1] Begining Date & Time :  12-MAY-50 17:00:00
+[A-2] Ending Date & Time :  12-MAY-50 17:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  35.73
+[C-2] Begining longitude :  -78.4
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  82 ----------
+
+[A-1] Begining Date & Time :  14-MAY-50 17:00:00
+[A-2] Ending Date & Time :  14-MAY-50 17:00:00
+
+[B-1] Tornado length :  3.8
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  35.3
+[C-2] Begining longitude :  -79.8
+[C-3] Ending latitude :  35.33
+[C-4] Ending longitude :  35.33
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  83 ----------
+
+[A-1] Begining Date & Time :  14-MAY-50 17:30:00
+[A-2] Ending Date & Time :  14-MAY-50 17:30:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.0
+[C-2] Begining longitude :  -80.68
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  84 ----------
+
+[A-1] Begining Date & Time :  31-MAY-50 15:30:00
+[A-2] Ending Date & Time :  31-MAY-50 15:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.42
+[C-2] Begining longitude :  -77.25
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  85 ----------
+
+[A-1] Begining Date & Time :  26-JUL-50 15:30:00
+[A-2] Ending Date & Time :  26-JUL-50 15:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.53
+[C-2] Begining longitude :  -77.4
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  86 ----------
+
+[A-1] Begining Date & Time :  27-JUL-50 16:20:00
+[A-2] Ending Date & Time :  27-JUL-50 16:20:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.4
+[C-2] Begining longitude :  -80.57
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  87 ----------
+
+[A-1] Begining Date & Time :  09-OCT-50 02:15:00
+[A-2] Ending Date & Time :  09-OCT-50 02:15:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  880
+
+[C-1] Begining latitude :  34.17
+[C-2] Begining longitude :  -78.6
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  88 ----------
+
+[A-1] Begining Date & Time :  12-MAY-50 14:00:00
+[A-2] Ending Date & Time :  12-MAY-50 14:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.75
+[C-2] Begining longitude :  -77.42
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  89 ----------
+
+[A-1] Begining Date & Time :  02-APR-50 15:30:00
+[A-2] Ending Date & Time :  02-APR-50 15:30:00
+
+[B-1] Tornado length :  2.5
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  35.75
+[C-2] Begining longitude :  -91.22
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  90 ----------
+
+[A-1] Begining Date & Time :  18-APR-50 01:45:00
+[A-2] Ending Date & Time :  18-APR-50 01:45:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  30.7
+[C-2] Begining longitude :  -87.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  91 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 19:30:00
+[A-2] Ending Date & Time :  26-MAR-50 19:30:00
+
+[B-1] Tornado length :  13.3
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  34.17
+[C-2] Begining longitude :  -93.03
+[C-3] Ending latitude :  34.32
+[C-4] Ending longitude :  34.32
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  92 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 21:15:00
+[A-2] Ending Date & Time :  26-MAR-50 21:15:00
+
+[B-1] Tornado length :  14.9
+[B-2] Tornado width :  1760
+
+[C-1] Begining latitude :  34.98
+[C-2] Begining longitude :  -91.73
+[C-3] Ending latitude :  35.08
+[C-4] Ending longitude :  35.08
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  93 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 23:30:00
+[A-2] Ending Date & Time :  26-MAR-50 23:30:00
+
+[B-1] Tornado length :  5.4
+[B-2] Tornado width :  833
+
+[C-1] Begining latitude :  35.1
+[C-2] Begining longitude :  -91.4
+[C-3] Ending latitude :  35.15
+[C-4] Ending longitude :  35.15
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  94 ----------
+
+[A-1] Begining Date & Time :  20-NOV-50 02:20:00
+[A-2] Ending Date & Time :  20-NOV-50 02:20:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.37
+[C-2] Begining longitude :  -87.2
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  95 ----------
+
+[A-1] Begining Date & Time :  20-NOV-50 04:00:00
+[A-2] Ending Date & Time :  20-NOV-50 04:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  38.2
+[C-2] Begining longitude :  -84.5
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  96 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 19:31:00
+[A-2] Ending Date & Time :  26-MAR-50 19:31:00
+
+[B-1] Tornado length :  5.7
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  36.15
+[C-2] Begining longitude :  -91.83
+[C-3] Ending latitude :  36.2
+[C-4] Ending longitude :  36.2
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  97 ----------
+
+[A-1] Begining Date & Time :  26-MAR-50 20:30:00
+[A-2] Ending Date & Time :  26-MAR-50 20:30:00
+
+[B-1] Tornado length :  10.4
+[B-2] Tornado width :  600
+
+[C-1] Begining latitude :  34.7
+[C-2] Begining longitude :  -92.35
+[C-3] Ending latitude :  34.8
+[C-4] Ending longitude :  34.8
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  98 ----------
+
+[A-1] Begining Date & Time :  16-MAR-50 09:15:00
+[A-2] Ending Date & Time :  16-MAR-50 09:15:00
+
+[B-1] Tornado length :  1.5
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  29.65
+[C-2] Begining longitude :  -81.22
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  99 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 13:00:00
+[A-2] Ending Date & Time :  08-MAY-50 13:00:00
+
+[B-1] Tornado length :  0.3
+[B-2] Tornado width :  30
+
+[C-1] Begining latitude :  29.13
+[C-2] Begining longitude :  -81.35
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  100 ----------
+
+[A-1] Begining Date & Time :  15-MAY-50 11:00:00
+[A-2] Ending Date & Time :  15-MAY-50 11:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  28.58
+[C-2] Begining longitude :  -81.37
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  101 ----------
+
+[A-1] Begining Date & Time :  15-MAY-50 11:00:00
+[A-2] Ending Date & Time :  15-MAY-50 11:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  28.5
+[C-2] Begining longitude :  -81.37
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  102 ----------
+
+[A-1] Begining Date & Time :  02-APR-50 18:00:00
+[A-2] Ending Date & Time :  02-APR-50 18:00:00
+
+[B-1] Tornado length :  0.8
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  35.98
+[C-2] Begining longitude :  -89.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  103 ----------
+
+[A-1] Begining Date & Time :  24-AUG-50 03:45:00
+[A-2] Ending Date & Time :  24-AUG-50 03:45:00
+
+[B-1] Tornado length :  3.6
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  34.4
+[C-2] Begining longitude :  -91.43
+[C-3] Ending latitude :  34.43
+[C-4] Ending longitude :  34.43
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  104 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 16:25:00
+[A-2] Ending Date & Time :  02-DEC-50 16:25:00
+
+[B-1] Tornado length :  7.8
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  36.12
+[C-2] Begining longitude :  -91.83
+[C-3] Ending latitude :  36.18
+[C-4] Ending longitude :  36.18
+
+[D-1] Damaged Property Cost :  .03K
+
+-------- Tornado :  105 ----------
+
+[A-1] Begining Date & Time :  11-AUG-50 17:00:00
+[A-2] Ending Date & Time :  11-AUG-50 17:00:00
+
+[B-1] Tornado length :  6.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.33
+[C-2] Begining longitude :  -75.87
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  106 ----------
+
+[A-1] Begining Date & Time :  15-JUN-50 16:42:00
+[A-2] Ending Date & Time :  15-JUN-50 16:42:00
+
+[B-1] Tornado length :  4.6
+[B-2] Tornado width :  67
+
+[C-1] Begining latitude :  46.58
+[C-2] Begining longitude :  -96.33
+[C-3] Ending latitude :  46.52
+[C-4] Ending longitude :  46.52
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  107 ----------
+
+[A-1] Begining Date & Time :  08-AUG-50 01:00:00
+[A-2] Ending Date & Time :  08-AUG-50 01:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  10
+
+[C-1] Begining latitude :  37.13
+[C-2] Begining longitude :  -93.38
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .25K
+
+-------- Tornado :  108 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 04:30:00
+[A-2] Ending Date & Time :  08-MAY-50 04:30:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  43.38
+[C-2] Begining longitude :  -97.97
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  109 ----------
+
+[A-1] Begining Date & Time :  15-JUN-50 20:00:00
+[A-2] Ending Date & Time :  15-JUN-50 20:00:00
+
+[B-1] Tornado length :  5.6
+[B-2] Tornado width :  300
+
+[C-1] Begining latitude :  41.98
+[C-2] Begining longitude :  -93.6
+[C-3] Ending latitude :  41.97
+[C-4] Ending longitude :  41.97
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  110 ----------
+
+[A-1] Begining Date & Time :  01-JUL-50 20:00:00
+[A-2] Ending Date & Time :  01-JUL-50 20:00:00
+
+[B-1] Tornado length :  14.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  42.45
+[C-2] Begining longitude :  -91.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  111 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 21:00:00
+[A-2] Ending Date & Time :  04-MAY-50 21:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.95
+[C-2] Begining longitude :  -95.73
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .03K
+
+-------- Tornado :  112 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 19:20:00
+[A-2] Ending Date & Time :  08-MAY-50 19:20:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  41.03
+[C-2] Begining longitude :  -95.27
+[C-3] Ending latitude :  41.02
+[C-4] Ending longitude :  41.02
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  113 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 13:00:00
+[A-2] Ending Date & Time :  12-FEB-50 13:00:00
+
+[B-1] Tornado length :  29.8
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.97
+[C-2] Begining longitude :  -94.0
+[C-3] Ending latitude :  32.35
+[C-4] Ending longitude :  32.35
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  114 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 13:20:00
+[A-2] Ending Date & Time :  12-FEB-50 13:20:00
+
+[B-1] Tornado length :  46.2
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.2
+[C-2] Begining longitude :  -93.58
+[C-3] Ending latitude :  32.8
+[C-4] Ending longitude :  32.8
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  115 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 14:00:00
+[A-2] Ending Date & Time :  12-FEB-50 14:00:00
+
+[B-1] Tornado length :  17.6
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.63
+[C-2] Begining longitude :  -93.65
+[C-3] Ending latitude :  31.83
+[C-4] Ending longitude :  31.83
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  116 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 14:00:00
+[A-2] Ending Date & Time :  12-FEB-50 14:00:00
+
+[B-1] Tornado length :  9.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.35
+[C-2] Begining longitude :  -93.77
+[C-3] Ending latitude :  32.47
+[C-4] Ending longitude :  32.47
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  117 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 14:20:00
+[A-2] Ending Date & Time :  12-FEB-50 14:20:00
+
+[B-1] Tornado length :  30.7
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.47
+[C-2] Begining longitude :  -93.7
+[C-3] Ending latitude :  32.85
+[C-4] Ending longitude :  32.85
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  118 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 14:30:00
+[A-2] Ending Date & Time :  12-FEB-50 14:30:00
+
+[B-1] Tornado length :  16.5
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.83
+[C-2] Begining longitude :  -93.47
+[C-3] Ending latitude :  32.0
+[C-4] Ending longitude :  32.0
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  119 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 15:00:00
+[A-2] Ending Date & Time :  12-FEB-50 15:00:00
+
+[B-1] Tornado length :  13.3
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.0
+[C-2] Begining longitude :  -93.27
+[C-3] Ending latitude :  32.18
+[C-4] Ending longitude :  32.18
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  120 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 15:00:00
+[A-2] Ending Date & Time :  12-FEB-50 15:00:00
+
+[B-1] Tornado length :  13.1
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.85
+[C-2] Begining longitude :  -93.43
+[C-3] Ending latitude :  33.0
+[C-4] Ending longitude :  33.0
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  121 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 15:20:00
+[A-2] Ending Date & Time :  12-FEB-50 15:20:00
+
+[B-1] Tornado length :  27.1
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.18
+[C-2] Begining longitude :  -93.2
+[C-3] Ending latitude :  32.55
+[C-4] Ending longitude :  32.55
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  122 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 23:00:00
+[A-2] Ending Date & Time :  12-FEB-50 23:00:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  32.6
+[C-2] Begining longitude :  -91.33
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  123 ----------
+
+[A-1] Begining Date & Time :  19-MAR-50 07:30:00
+[A-2] Ending Date & Time :  19-MAR-50 07:30:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  30.45
+[C-2] Begining longitude :  -93.45
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  124 ----------
+
+[A-1] Begining Date & Time :  19-MAR-50 13:15:00
+[A-2] Ending Date & Time :  19-MAR-50 13:15:00
+
+[B-1] Tornado length :  18.1
+[B-2] Tornado width :  27
+
+[C-1] Begining latitude :  29.7
+[C-2] Begining longitude :  -90.1
+[C-3] Ending latitude :  29.67
+[C-4] Ending longitude :  29.67
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  125 ----------
+
+[A-1] Begining Date & Time :  19-MAR-50 13:15:00
+[A-2] Ending Date & Time :  19-MAR-50 13:15:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  30.1
+[C-2] Begining longitude :  -91.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  126 ----------
+
+[A-1] Begining Date & Time :  03-JAN-50 16:00:00
+[A-2] Ending Date & Time :  03-JAN-50 16:00:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.88
+[C-2] Begining longitude :  -84.58
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  127 ----------
+
+[A-1] Begining Date & Time :  19-JUL-50 15:15:00
+[A-2] Ending Date & Time :  19-JUL-50 15:15:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  40.8
+[C-2] Begining longitude :  -84.62
+[C-3] Ending latitude :  40.82
+[C-4] Ending longitude :  40.82
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  128 ----------
+
+[A-1] Begining Date & Time :  19-JUL-50 15:15:00
+[A-2] Ending Date & Time :  19-JUL-50 15:15:00
+
+[B-1] Tornado length :  9.7
+[B-2] Tornado width :  300
+
+[C-1] Begining latitude :  40.72
+[C-2] Begining longitude :  -84.08
+[C-3] Ending latitude :  40.83
+[C-4] Ending longitude :  40.83
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  129 ----------
+
+[A-1] Begining Date & Time :  28-APR-50 17:00:00
+[A-2] Ending Date & Time :  28-APR-50 17:00:00
+
+[B-1] Tornado length :  19.8
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  38.12
+[C-2] Begining longitude :  -95.85
+[C-3] Ending latitude :  38.35
+[C-4] Ending longitude :  38.35
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  130 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 20:00:00
+[A-2] Ending Date & Time :  04-MAY-50 20:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  38.68
+[C-2] Begining longitude :  -99.32
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  131 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 23:10:00
+[A-2] Ending Date & Time :  04-MAY-50 23:10:00
+
+[B-1] Tornado length :  19.3
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  38.03
+[C-2] Begining longitude :  -99.12
+[C-3] Ending latitude :  38.27
+[C-4] Ending longitude :  38.27
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  132 ----------
+
+[A-1] Begining Date & Time :  04-MAY-50 23:30:00
+[A-2] Ending Date & Time :  04-MAY-50 23:30:00
+
+[B-1] Tornado length :  14.5
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  38.27
+[C-2] Begining longitude :  -98.92
+[C-3] Ending latitude :  38.45
+[C-4] Ending longitude :  38.45
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  133 ----------
+
+[A-1] Begining Date & Time :  05-MAY-50 03:30:00
+[A-2] Ending Date & Time :  05-MAY-50 03:30:00
+
+[B-1] Tornado length :  3.3
+[B-2] Tornado width :  440
+
+[C-1] Begining latitude :  39.62
+[C-2] Begining longitude :  -95.62
+[C-3] Ending latitude :  39.65
+[C-4] Ending longitude :  39.65
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  134 ----------
+
+[A-1] Begining Date & Time :  05-MAY-50 03:40:00
+[A-2] Ending Date & Time :  05-MAY-50 03:40:00
+
+[B-1] Tornado length :  14.0
+[B-2] Tornado width :  440
+
+[C-1] Begining latitude :  39.65
+[C-2] Begining longitude :  -95.57
+[C-3] Ending latitude :  39.85
+[C-4] Ending longitude :  39.85
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  135 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 18:30:00
+[A-2] Ending Date & Time :  08-MAY-50 18:30:00
+
+[B-1] Tornado length :  12.6
+[B-2] Tornado width :  660
+
+[C-1] Begining latitude :  39.35
+[C-2] Begining longitude :  -98.48
+[C-3] Ending latitude :  39.47
+[C-4] Ending longitude :  39.47
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  136 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 19:00:00
+[A-2] Ending Date & Time :  08-MAY-50 19:00:00
+
+[B-1] Tornado length :  6.8
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.57
+[C-2] Begining longitude :  -98.3
+[C-3] Ending latitude :  39.63
+[C-4] Ending longitude :  39.63
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  137 ----------
+
+[A-1] Begining Date & Time :  13-JUN-50 11:05:00
+[A-2] Ending Date & Time :  13-JUN-50 11:05:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  46.8
+[C-2] Begining longitude :  -97.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  138 ----------
+
+[A-1] Begining Date & Time :  14-JUN-50 17:00:00
+[A-2] Ending Date & Time :  14-JUN-50 17:00:00
+
+[B-1] Tornado length :  23.7
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  48.92
+[C-2] Begining longitude :  -103.77
+[C-3] Ending latitude :  48.78
+[C-4] Ending longitude :  48.78
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  139 ----------
+
+[A-1] Begining Date & Time :  25-MAY-50 16:30:00
+[A-2] Ending Date & Time :  25-MAY-50 16:30:00
+
+[B-1] Tornado length :  3.0
+[B-2] Tornado width :  880
+
+[C-1] Begining latitude :  32.67
+[C-2] Begining longitude :  -101.88
+[C-3] Ending latitude :  32.65
+[C-4] Ending longitude :  32.65
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  140 ----------
+
+[A-1] Begining Date & Time :  29-MAY-50 17:00:00
+[A-2] Ending Date & Time :  29-MAY-50 17:00:00
+
+[B-1] Tornado length :  3.4
+[B-2] Tornado width :  267
+
+[C-1] Begining latitude :  33.35
+[C-2] Begining longitude :  -96.92
+[C-3] Ending latitude :  33.3
+[C-4] Ending longitude :  33.3
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  141 ----------
+
+[A-1] Begining Date & Time :  05-JUN-50 15:55:00
+[A-2] Ending Date & Time :  05-JUN-50 15:55:00
+
+[B-1] Tornado length :  23.9
+[B-2] Tornado width :  67
+
+[C-1] Begining latitude :  30.18
+[C-2] Begining longitude :  -96.4
+[C-3] Ending latitude :  30.02
+[C-4] Ending longitude :  30.02
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  142 ----------
+
+[A-1] Begining Date & Time :  05-JUN-50 16:00:00
+[A-2] Ending Date & Time :  05-JUN-50 16:00:00
+
+[B-1] Tornado length :  23.7
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  29.9
+[C-2] Begining longitude :  -96.4
+[C-3] Ending latitude :  29.72
+[C-4] Ending longitude :  29.72
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  143 ----------
+
+[A-1] Begining Date & Time :  19-JUN-50 20:40:00
+[A-2] Ending Date & Time :  19-JUN-50 20:40:00
+
+[B-1] Tornado length :  15.8
+[B-2] Tornado width :  167
+
+[C-1] Begining latitude :  36.08
+[C-2] Begining longitude :  -102.53
+[C-3] Ending latitude :  36.08
+[C-4] Ending longitude :  36.08
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  144 ----------
+
+[A-1] Begining Date & Time :  19-JUL-50 14:30:00
+[A-2] Ending Date & Time :  19-JUL-50 14:30:00
+
+[B-1] Tornado length :  4.3
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  40.22
+[C-2] Begining longitude :  -87.15
+[C-3] Ending latitude :  40.18
+[C-4] Ending longitude :  40.18
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  145 ----------
+
+[A-1] Begining Date & Time :  19-JUL-50 17:45:00
+[A-2] Ending Date & Time :  19-JUL-50 17:45:00
+
+[B-1] Tornado length :  1.1
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  41.07
+[C-2] Begining longitude :  -85.08
+[C-3] Ending latitude :  41.08
+[C-4] Ending longitude :  41.08
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  146 ----------
+
+[A-1] Begining Date & Time :  22-JUL-50 15:07:00
+[A-2] Ending Date & Time :  22-JUL-50 15:07:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.52
+[C-2] Begining longitude :  -104.57
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  147 ----------
+
+[A-1] Begining Date & Time :  03-JUL-50 18:20:00
+[A-2] Ending Date & Time :  03-JUL-50 18:20:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.65
+[C-2] Begining longitude :  -86.3
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  148 ----------
+
+[A-1] Begining Date & Time :  05-AUG-50 17:30:00
+[A-2] Ending Date & Time :  05-AUG-50 17:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.73
+[C-2] Begining longitude :  -102.55
+[C-3] Ending latitude :  40.72
+[C-4] Ending longitude :  40.72
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  149 ----------
+
+[A-1] Begining Date & Time :  05-AUG-50 17:35:00
+[A-2] Ending Date & Time :  05-AUG-50 17:35:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  40.7
+[C-2] Begining longitude :  -102.5
+[C-3] Ending latitude :  40.68
+[C-4] Ending longitude :  40.68
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  150 ----------
+
+[A-1] Begining Date & Time :  27-APR-50 16:00:00
+[A-2] Ending Date & Time :  27-APR-50 16:00:00
+
+[B-1] Tornado length :  0.7
+[B-2] Tornado width :  37
+
+[C-1] Begining latitude :  33.07
+[C-2] Begining longitude :  -80.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  151 ----------
+
+[A-1] Begining Date & Time :  13-JAN-50 05:25:00
+[A-2] Ending Date & Time :  13-JAN-50 05:25:00
+
+[B-1] Tornado length :  0.6
+[B-2] Tornado width :  17
+
+[C-1] Begining latitude :  34.4
+[C-2] Begining longitude :  -94.37
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  152 ----------
+
+[A-1] Begining Date & Time :  11-FEB-50 13:10:00
+[A-2] Ending Date & Time :  11-FEB-50 13:10:00
+
+[B-1] Tornado length :  9.9
+[B-2] Tornado width :  400
+
+[C-1] Begining latitude :  29.42
+[C-2] Begining longitude :  -95.25
+[C-3] Ending latitude :  29.52
+[C-4] Ending longitude :  29.52
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  153 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 19:30:00
+[A-2] Ending Date & Time :  08-MAY-50 19:30:00
+
+[B-1] Tornado length :  19.6
+[B-2] Tornado width :  440
+
+[C-1] Begining latitude :  39.23
+[C-2] Begining longitude :  -98.95
+[C-3] Ending latitude :  39.23
+[C-4] Ending longitude :  39.23
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  154 ----------
+
+[A-1] Begining Date & Time :  14-JUL-50 06:30:00
+[A-2] Ending Date & Time :  14-JUL-50 06:30:00
+
+[B-1] Tornado length :  5.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  41.27
+[C-2] Begining longitude :  -73.5
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  155 ----------
+
+[A-1] Begining Date & Time :  09-AUG-50 16:55:00
+[A-2] Ending Date & Time :  09-AUG-50 16:55:00
+
+[B-1] Tornado length :  5.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.28
+[C-2] Begining longitude :  -81.38
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  156 ----------
+
+[A-1] Begining Date & Time :  12-FEB-50 14:20:00
+[A-2] Ending Date & Time :  12-FEB-50 14:20:00
+
+[B-1] Tornado length :  12.2
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  32.8
+[C-2] Begining longitude :  -93.23
+[C-3] Ending latitude :  32.97
+[C-4] Ending longitude :  32.97
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  157 ----------
+
+[A-1] Begining Date & Time :  18-APR-50 01:30:00
+[A-2] Ending Date & Time :  18-APR-50 01:30:00
+
+[B-1] Tornado length :  14.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  30.67
+[C-2] Begining longitude :  -88.2
+[C-3] Ending latitude :  30.85
+[C-4] Ending longitude :  30.85
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  158 ----------
+
+[A-1] Begining Date & Time :  10-MAY-50 13:00:00
+[A-2] Ending Date & Time :  10-MAY-50 13:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.18
+[C-2] Begining longitude :  -110.42
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .03K
+
+-------- Tornado :  159 ----------
+
+[A-1] Begining Date & Time :  07-JUN-50 15:30:00
+[A-2] Ending Date & Time :  07-JUN-50 15:30:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  10
+
+[C-1] Begining latitude :  43.08
+[C-2] Begining longitude :  -104.5
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .03K
+
+-------- Tornado :  160 ----------
+
+[A-1] Begining Date & Time :  14-JUN-50 16:00:00
+[A-2] Ending Date & Time :  14-JUN-50 16:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  10
+
+[C-1] Begining latitude :  44.13
+[C-2] Begining longitude :  -104.18
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  .03K
+
+-------- Tornado :  161 ----------
+
+[A-1] Begining Date & Time :  25-JAN-50 19:30:00
+[A-2] Ending Date & Time :  25-JAN-50 19:30:00
+
+[B-1] Tornado length :  2.3
+[B-2] Tornado width :  300
+
+[C-1] Begining latitude :  37.6
+[C-2] Begining longitude :  -90.68
+[C-3] Ending latitude :  37.63
+[C-4] Ending longitude :  37.63
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  162 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 21:17:00
+[A-2] Ending Date & Time :  08-MAY-50 21:17:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.4
+[C-2] Begining longitude :  -97.65
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  163 ----------
+
+[A-1] Begining Date & Time :  30-MAY-50 14:00:00
+[A-2] Ending Date & Time :  30-MAY-50 14:00:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  7
+
+[C-1] Begining latitude :  34.75
+[C-2] Begining longitude :  -84.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  164 ----------
+
+[A-1] Begining Date & Time :  04-JUN-50 06:00:00
+[A-2] Ending Date & Time :  04-JUN-50 06:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  33.68
+[C-2] Begining longitude :  -84.93
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  165 ----------
+
+[A-1] Begining Date & Time :  04-JUN-50 08:00:00
+[A-2] Ending Date & Time :  04-JUN-50 08:00:00
+
+[B-1] Tornado length :  3.3
+[B-2] Tornado width :  7
+
+[C-1] Begining latitude :  33.85
+[C-2] Begining longitude :  -84.25
+[C-3] Ending latitude :  33.85
+[C-4] Ending longitude :  33.85
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  166 ----------
+
+[A-1] Begining Date & Time :  07-JUN-50 17:30:00
+[A-2] Ending Date & Time :  07-JUN-50 17:30:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  300
+
+[C-1] Begining latitude :  33.03
+[C-2] Begining longitude :  -84.15
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  167 ----------
+
+[A-1] Begining Date & Time :  06-AUG-50 18:00:00
+[A-2] Ending Date & Time :  06-AUG-50 18:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.97
+[C-2] Begining longitude :  -100.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  168 ----------
+
+[A-1] Begining Date & Time :  06-AUG-50 18:30:00
+[A-2] Ending Date & Time :  06-AUG-50 18:30:00
+
+[B-1] Tornado length :  8.7
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.13
+[C-2] Begining longitude :  -100.63
+[C-3] Ending latitude :  39.12
+[C-4] Ending longitude :  39.12
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  169 ----------
+
+[A-1] Begining Date & Time :  28-AUG-50 14:50:00
+[A-2] Ending Date & Time :  28-AUG-50 14:50:00
+
+[B-1] Tornado length :  7.2
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.47
+[C-2] Begining longitude :  -100.82
+[C-3] Ending latitude :  37.42
+[C-4] Ending longitude :  37.42
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  170 ----------
+
+[A-1] Begining Date & Time :  08-MAY-50 21:30:00
+[A-2] Ending Date & Time :  08-MAY-50 21:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.72
+[C-2] Begining longitude :  -97.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  171 ----------
+
+[A-1] Begining Date & Time :  09-MAY-50 00:01:00
+[A-2] Ending Date & Time :  09-MAY-50 00:01:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.2
+[C-2] Begining longitude :  -96.58
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  172 ----------
+
+[A-1] Begining Date & Time :  16-MAY-50 18:00:00
+[A-2] Ending Date & Time :  16-MAY-50 18:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  37.55
+[C-2] Begining longitude :  -98.42
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  173 ----------
+
+[A-1] Begining Date & Time :  18-MAY-50 19:00:00
+[A-2] Ending Date & Time :  18-MAY-50 19:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.85
+[C-2] Begining longitude :  -98.3
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  174 ----------
+
+[A-1] Begining Date & Time :  18-MAY-50 19:00:00
+[A-2] Ending Date & Time :  18-MAY-50 19:00:00
+
+[B-1] Tornado length :  14.9
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  38.12
+[C-2] Begining longitude :  -96.82
+[C-3] Ending latitude :  38.33
+[C-4] Ending longitude :  38.33
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  175 ----------
+
+[A-1] Begining Date & Time :  19-MAY-50 01:30:00
+[A-2] Ending Date & Time :  19-MAY-50 01:30:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.82
+[C-2] Begining longitude :  -96.85
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  176 ----------
+
+[A-1] Begining Date & Time :  23-MAY-50 18:00:00
+[A-2] Ending Date & Time :  23-MAY-50 18:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  250
+
+[C-1] Begining latitude :  39.75
+[C-2] Begining longitude :  -99.32
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  177 ----------
+
+[A-1] Begining Date & Time :  24-MAY-50 13:30:00
+[A-2] Ending Date & Time :  24-MAY-50 13:30:00
+
+[B-1] Tornado length :  3.6
+[B-2] Tornado width :  77
+
+[C-1] Begining latitude :  37.27
+[C-2] Begining longitude :  -99.48
+[C-3] Ending latitude :  37.28
+[C-4] Ending longitude :  37.28
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  178 ----------
+
+[A-1] Begining Date & Time :  24-MAY-50 17:30:00
+[A-2] Ending Date & Time :  24-MAY-50 17:30:00
+
+[B-1] Tornado length :  10.7
+[B-2] Tornado width :  40
+
+[C-1] Begining latitude :  39.38
+[C-2] Begining longitude :  -96.97
+[C-3] Ending latitude :  39.45
+[C-4] Ending longitude :  39.45
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  179 ----------
+
+[A-1] Begining Date & Time :  08-JUN-50 20:10:00
+[A-2] Ending Date & Time :  08-JUN-50 20:10:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  700
+
+[C-1] Begining latitude :  38.33
+[C-2] Begining longitude :  -97.93
+[C-3] Ending latitude :  38.33
+[C-4] Ending longitude :  38.33
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  180 ----------
+
+[A-1] Begining Date & Time :  08-JUN-50 20:15:00
+[A-2] Ending Date & Time :  08-JUN-50 20:15:00
+
+[B-1] Tornado length :  17.1
+[B-2] Tornado width :  700
+
+[C-1] Begining latitude :  38.33
+[C-2] Begining longitude :  -97.92
+[C-3] Ending latitude :  38.33
+[C-4] Ending longitude :  38.33
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  181 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 19:20:00
+[A-2] Ending Date & Time :  25-JUN-50 19:20:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  45.42
+[C-2] Begining longitude :  -91.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  182 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 20:30:00
+[A-2] Ending Date & Time :  25-JUN-50 20:30:00
+
+[B-1] Tornado length :  8.4
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  45.57
+[C-2] Begining longitude :  -90.3
+[C-3] Ending latitude :  45.57
+[C-4] Ending longitude :  45.57
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  183 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 21:00:00
+[A-2] Ending Date & Time :  25-JUN-50 21:00:00
+
+[B-1] Tornado length :  5.1
+[B-2] Tornado width :  17
+
+[C-1] Begining latitude :  44.83
+[C-2] Begining longitude :  -90.35
+[C-3] Ending latitude :  44.92
+[C-4] Ending longitude :  44.92
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  184 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 21:00:00
+[A-2] Ending Date & Time :  25-JUN-50 21:00:00
+
+[B-1] Tornado length :  13.1
+[B-2] Tornado width :  880
+
+[C-1] Begining latitude :  45.58
+[C-2] Begining longitude :  -89.58
+[C-3] Ending latitude :  45.67
+[C-4] Ending longitude :  45.67
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  185 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 21:10:00
+[A-2] Ending Date & Time :  25-JUN-50 21:10:00
+
+[B-1] Tornado length :  2.7
+[B-2] Tornado width :  17
+
+[C-1] Begining latitude :  44.92
+[C-2] Begining longitude :  -90.32
+[C-3] Ending latitude :  44.97
+[C-4] Ending longitude :  44.97
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  186 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 23:30:00
+[A-2] Ending Date & Time :  25-JUN-50 23:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  300
+
+[C-1] Begining latitude :  43.95
+[C-2] Begining longitude :  -88.95
+[C-3] Ending latitude :  43.97
+[C-4] Ending longitude :  43.97
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  187 ----------
+
+[A-1] Begining Date & Time :  03-JAN-50 11:10:00
+[A-2] Ending Date & Time :  03-JAN-50 11:10:00
+
+[B-1] Tornado length :  3.3
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  38.82
+[C-2] Begining longitude :  -90.1
+[C-3] Ending latitude :  38.83
+[C-4] Ending longitude :  38.83
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  188 ----------
+
+[A-1] Begining Date & Time :  03-JAN-50 11:55:00
+[A-2] Ending Date & Time :  03-JAN-50 11:55:00
+
+[B-1] Tornado length :  3.6
+[B-2] Tornado width :  130
+
+[C-1] Begining latitude :  39.1
+[C-2] Begining longitude :  -89.3
+[C-3] Ending latitude :  39.12
+[C-4] Ending longitude :  39.12
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  189 ----------
+
+[A-1] Begining Date & Time :  25-JAN-50 21:00:00
+[A-2] Ending Date & Time :  25-JAN-50 21:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  41.17
+[C-2] Begining longitude :  -87.33
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  190 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 16:30:00
+[A-2] Ending Date & Time :  27-MAR-50 16:30:00
+
+[B-1] Tornado length :  3.0
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  40.57
+[C-2] Begining longitude :  -88.6
+[C-3] Ending latitude :  40.6
+[C-4] Ending longitude :  40.6
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  191 ----------
+
+[A-1] Begining Date & Time :  16-JUN-50 15:30:00
+[A-2] Ending Date & Time :  16-JUN-50 15:30:00
+
+[B-1] Tornado length :  29.9
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  38.28
+[C-2] Begining longitude :  -101.28
+[C-3] Ending latitude :  38.7
+[C-4] Ending longitude :  38.7
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  192 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 18:45:00
+[A-2] Ending Date & Time :  25-JUN-50 18:45:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.77
+[C-2] Begining longitude :  -97.47
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  193 ----------
+
+[A-1] Begining Date & Time :  25-JUN-50 21:00:00
+[A-2] Ending Date & Time :  25-JUN-50 21:00:00
+
+[B-1] Tornado length :  0.1
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.5
+[C-2] Begining longitude :  -99.62
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  194 ----------
+
+[A-1] Begining Date & Time :  01-JUL-50 12:00:00
+[A-2] Ending Date & Time :  01-JUL-50 12:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.3
+[C-2] Begining longitude :  -96.92
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  195 ----------
+
+[A-1] Begining Date & Time :  01-JUL-50 12:00:00
+[A-2] Ending Date & Time :  01-JUL-50 12:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  38.7
+[C-2] Begining longitude :  -97.08
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  196 ----------
+
+[A-1] Begining Date & Time :  13-FEB-50 01:00:00
+[A-2] Ending Date & Time :  13-FEB-50 01:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  7
+
+[C-1] Begining latitude :  35.35
+[C-2] Begining longitude :  -89.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  197 ----------
+
+[A-1] Begining Date & Time :  13-FEB-50 02:00:00
+[A-2] Ending Date & Time :  13-FEB-50 02:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  7
+
+[C-1] Begining latitude :  35.75
+[C-2] Begining longitude :  -89.48
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  198 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 15:00:00
+[A-2] Ending Date & Time :  27-MAR-50 15:00:00
+
+[B-1] Tornado length :  0.2
+[B-2] Tornado width :  7
+
+[C-1] Begining latitude :  35.68
+[C-2] Begining longitude :  -85.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5K
+
+-------- Tornado :  199 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 06:00:00
+[A-2] Ending Date & Time :  27-MAR-50 06:00:00
+
+[B-1] Tornado length :  15.3
+[B-2] Tornado width :  17
+
+[C-1] Begining latitude :  32.63
+[C-2] Begining longitude :  -91.28
+[C-3] Ending latitude :  32.73
+[C-4] Ending longitude :  32.73
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  200 ----------
+
+[A-1] Begining Date & Time :  27-MAR-50 08:30:00
+[A-2] Ending Date & Time :  27-MAR-50 08:30:00
+
+[B-1] Tornado length :  0.5
+[B-2] Tornado width :  27
+
+[C-1] Begining latitude :  30.92
+[C-2] Begining longitude :  -91.13
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  201 ----------
+
+[A-1] Begining Date & Time :  24-APR-50 07:45:00
+[A-2] Ending Date & Time :  24-APR-50 07:45:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  30.1
+[C-2] Begining longitude :  -90.03
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  202 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 01:00:00
+[A-2] Ending Date & Time :  01-MAY-50 01:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.7
+[C-2] Begining longitude :  -93.3
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  203 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 10:30:00
+[A-2] Ending Date & Time :  01-MAY-50 10:30:00
+
+[B-1] Tornado length :  15.4
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  31.95
+[C-2] Begining longitude :  -92.63
+[C-3] Ending latitude :  32.05
+[C-4] Ending longitude :  32.05
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  204 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 11:25:00
+[A-2] Ending Date & Time :  01-MAY-50 11:25:00
+
+[B-1] Tornado length :  3.6
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.55
+[C-2] Begining longitude :  -92.9
+[C-3] Ending latitude :  31.57
+[C-4] Ending longitude :  31.57
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  205 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 11:30:00
+[A-2] Ending Date & Time :  01-MAY-50 11:30:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.75
+[C-2] Begining longitude :  -92.25
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  206 ----------
+
+[A-1] Begining Date & Time :  01-MAY-50 11:30:00
+[A-2] Ending Date & Time :  01-MAY-50 11:30:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.38
+[C-2] Begining longitude :  -91.73
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  207 ----------
+
+[A-1] Begining Date & Time :  02-MAY-50 02:00:00
+[A-2] Ending Date & Time :  02-MAY-50 02:00:00
+
+[B-1] Tornado length :  5.2
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  31.67
+[C-2] Begining longitude :  -92.9
+[C-3] Ending latitude :  31.72
+[C-4] Ending longitude :  31.72
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  208 ----------
+
+[A-1] Begining Date & Time :  02-MAY-50 02:00:00
+[A-2] Ending Date & Time :  02-MAY-50 02:00:00
+
+[B-1] Tornado length :  27.6
+[B-2] Tornado width :  150
+
+[C-1] Begining latitude :  31.72
+[C-2] Begining longitude :  -92.83
+[C-3] Ending latitude :  32.0
+[C-4] Ending longitude :  32.0
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  209 ----------
+
+[A-1] Begining Date & Time :  02-MAY-50 03:00:00
+[A-2] Ending Date & Time :  02-MAY-50 03:00:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  100
+
+[C-1] Begining latitude :  31.55
+[C-2] Begining longitude :  -91.97
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  250K
+
+-------- Tornado :  210 ----------
+
+[A-1] Begining Date & Time :  13-MAY-50 11:30:00
+[A-2] Ending Date & Time :  13-MAY-50 11:30:00
+
+[B-1] Tornado length :  2.0
+[B-2] Tornado width :  27
+
+[C-1] Begining latitude :  31.15
+[C-2] Begining longitude :  -91.95
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  211 ----------
+
+[A-1] Begining Date & Time :  29-MAY-50 23:00:00
+[A-2] Ending Date & Time :  29-MAY-50 23:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  27
+
+[C-1] Begining latitude :  32.1
+[C-2] Begining longitude :  -93.9
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  212 ----------
+
+[A-1] Begining Date & Time :  29-MAY-50 23:00:00
+[A-2] Ending Date & Time :  29-MAY-50 23:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  27
+
+[C-1] Begining latitude :  31.67
+[C-2] Begining longitude :  -93.7
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  213 ----------
+
+[A-1] Begining Date & Time :  18-JUL-50 16:30:00
+[A-2] Ending Date & Time :  18-JUL-50 16:30:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  37.68
+[C-2] Begining longitude :  -95.52
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  0K
+
+-------- Tornado :  214 ----------
+
+[A-1] Begining Date & Time :  06-AUG-50 15:00:00
+[A-2] Ending Date & Time :  06-AUG-50 15:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  39.93
+[C-2] Begining longitude :  -101.0
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  215 ----------
+
+[A-1] Begining Date & Time :  02-JUL-50 19:00:00
+[A-2] Ending Date & Time :  02-JUL-50 19:00:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  90
+
+[C-1] Begining latitude :  38.47
+[C-2] Begining longitude :  -100.88
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  216 ----------
+
+[A-1] Begining Date & Time :  08-JUL-50 22:45:00
+[A-2] Ending Date & Time :  08-JUL-50 22:45:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  90
+
+[C-1] Begining latitude :  39.82
+[C-2] Begining longitude :  -96.8
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  217 ----------
+
+[A-1] Begining Date & Time :  13-JUN-50 03:00:00
+[A-2] Ending Date & Time :  13-JUN-50 03:00:00
+
+[B-1] Tornado length :  0.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.95
+[C-2] Begining longitude :  -89.77
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  218 ----------
+
+[A-1] Begining Date & Time :  16-JUL-50 22:15:00
+[A-2] Ending Date & Time :  16-JUL-50 22:15:00
+
+[B-1] Tornado length :  1.0
+[B-2] Tornado width :  33
+
+[C-1] Begining latitude :  41.08
+[C-2] Begining longitude :  -88.43
+[C-3] Ending latitude :  nan
+[C-4] Ending longitude :  nan
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  219 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 15:00:00
+[A-2] Ending Date & Time :  02-DEC-50 15:00:00
+
+[B-1] Tornado length :  7.3
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  38.97
+[C-2] Begining longitude :  -90.05
+[C-3] Ending latitude :  39.0
+[C-4] Ending longitude :  39.0
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  220 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 15:15:00
+[A-2] Ending Date & Time :  02-DEC-50 15:15:00
+
+[B-1] Tornado length :  11.5
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  39.0
+[C-2] Begining longitude :  -89.92
+[C-3] Ending latitude :  39.07
+[C-4] Ending longitude :  39.07
+
+[D-1] Damaged Property Cost :  25K
+
+-------- Tornado :  221 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 16:00:00
+[A-2] Ending Date & Time :  02-DEC-50 16:00:00
+
+[B-1] Tornado length :  4.7
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  38.75
+[C-2] Begining longitude :  -89.67
+[C-3] Ending latitude :  38.8
+[C-4] Ending longitude :  38.8
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  222 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 16:00:00
+[A-2] Ending Date & Time :  02-DEC-50 16:00:00
+
+[B-1] Tornado length :  13.3
+[B-2] Tornado width :  200
+
+[C-1] Begining latitude :  38.8
+[C-2] Begining longitude :  -89.6
+[C-3] Ending latitude :  38.9
+[C-4] Ending longitude :  38.9
+
+[D-1] Damaged Property Cost :  2.5M
+
+-------- Tornado :  223 ----------
+
+[A-1] Begining Date & Time :  02-DEC-50 17:30:00
+[A-2] Ending Date & Time :  02-DEC-50 17:30:00
+
+[B-1] Tornado length :  9.6
+[B-2] Tornado width :  50
+
+[C-1] Begining latitude :  38.17
+[C-2] Begining longitude :  -89.78
+[C-3] Ending latitude :  38.22
+[C-4] Ending longitude :  38.22
+
+[D-1] Damaged Property Cost :  25K
